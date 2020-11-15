@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # RanugaD
 # Made with React JS
+# I am getting the data from http://openweathermap.org/
